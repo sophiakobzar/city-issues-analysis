@@ -2,7 +2,7 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: left; /* Ensure the root container is aligned to the left */
 }
 
 .logo {
@@ -39,4 +39,51 @@
 
 .read-the-docs {
   color: #888;
+}
+
+h1 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 10px; /* Optional: Add some padding for better appearance */
+  background-color: white; /* Optional: Add a background color to make the title stand out */
+  z-index: 1000; /* Ensure the title stays on top of other elements */
+}
+
+.container {
+  text-align: left; /* Ensure the container is aligned to the left */
+  padding-top: 60px; /* Add padding to avoid overlap with the fixed header */
+}
+
+h2, h3 {
+  text-align: left; /* Align headings to the left */
+}
+
+button {
+  margin-right: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  text-align: left; /* Align button text to the left */
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.loading {
+  font-size: 18px;
+  color: #ff0000;
+  text-align: left; /* Align loading text to the left */
+}
+
+.analysis-results {
+  margin-top: 20px;
+  text-align: left; /* Align analysis results to the left */
 }

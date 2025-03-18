@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import Plot from 'react-plotly.js';
+import './GenerateAnalyzeComments.css'; // Import the CSS file
 
 const GenerateAnalyzeComments = () => {
     const [responseData, setResponseData] = useState(null);
@@ -54,13 +55,13 @@ const GenerateAnalyzeComments = () => {
     };
 
     return (
-        <div>
+        <div className="container">
             <h2>Generate and Analyze Comments</h2>
             <button onClick={generateAndAnalyzeComments}>Generate and Analyze Comments</button>
             <button onClick={generateAndAnalyzeComments_NO_AI}>Generate and Analyze Comments NO AI</button>
-            {loading && <p>Loading...</p>}
+            {loading && <p className="loading">Loading...</p>}
             {responseData && (
-                <div>
+                <div className="analysis-results">
                     <h3>Analysis Results</h3>
                     <Plot
                         data={[
