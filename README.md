@@ -16,13 +16,12 @@ This project analyzes comments related to city issues such as traffic, homelessn
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-city-issues.git
-    cd sentiment-analysis-city-issues
+    git clone https://github.com/sophiakobzar/city-issues-analysis.git
+    cd city-issues-analysis
     ```
 
 2. **Install Node.js dependencies**:
     ```bash
-    cd server
     npm install
     ```
 
@@ -33,6 +32,10 @@ This project analyzes comments related to city issues such as traffic, homelessn
 
 4. **Set up Azure OpenAI**:
     - Create a `config.py` file in the root directory with the following content:
+      ```bash
+      touch config.py
+      ```
+   - Add the following to `config.py` file:
       ```python
       AZURE_OPENAI_API_KEY = "your_api_key"
       AZURE_OPENAI_API_VERSION = "2023-05-15"
@@ -44,17 +47,15 @@ This project analyzes comments related to city issues such as traffic, homelessn
 
 1. **Run the Node.js server**:
     ```bash
-    cd server
     node api.cjs
     ```
 
 2. **Run the React frontend**:
     ```bash
-    cd client
     npm run dev
     ```
 
 3. **Access the application**:
-    Open your web browser and navigate to `http://localhost:3000`.
+    Open your web browser and navigate to `http://localhost:5173/`.
 
 ## Project Structure
