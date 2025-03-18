@@ -1,0 +1,302 @@
+[
+	{
+		"comment": "With more people using bikes and public transport, the traffic situation has improved significantly.",
+		"topic": "Traffic",
+		"sentiment": 0.2916666667,
+		"timestamp": "2025-03-11T15:46:33.044"
+	},
+	{
+		"comment": "The constant honking and noise from traffic is driving me crazy.",
+		"topic": "Traffic",
+		"sentiment": -0.3,
+		"timestamp": "2025-03-11T17:25:33.044"
+	},
+	{
+		"comment": "The pollution from all the traffic is making it hard to breathe.",
+		"topic": "Traffic",
+		"sentiment": -0.2916666667,
+		"timestamp": "2025-03-11T17:30:33.044"
+	},
+	{
+		"comment": "The drug problem is getting out of hand. We need immediate intervention.",
+		"topic": "Drug Use",
+		"sentiment": 0,
+		"timestamp": "2025-03-11T18:56:33.044"
+	},
+	{
+		"comment": "Drug use in public places is becoming a serious issue. It's not safe for our children to play outside anymore. We need stricter regulations.",
+		"topic": "Drug Use",
+		"sentiment": -0.0266666667,
+		"timestamp": "2025-03-11T19:42:33.044"
+	},
+	{
+		"comment": "I've noticed a decrease in drug use in our neighborhood, thanks to the new community outreach programs.",
+		"topic": "Drug Use",
+		"sentiment": 0.1681818182,
+		"timestamp": "2025-03-11T21:38:33.044"
+	},
+	{
+		"comment": "The sight of homeless people sleeping on the streets is distressing.",
+		"topic": "Homelessness",
+		"sentiment": 0,
+		"timestamp": "2025-03-12T18:51:33.044"
+	},
+	{
+		"comment": "I've noticed an increase in homelessness in our neighborhood. It's heartbreaking to see so many people without a place to live. We need more support for them.",
+		"topic": "Homelessness",
+		"sentiment": 0.3787878788,
+		"timestamp": "2025-03-12T19:18:33.044"
+	},
+	{
+		"comment": "The lack of parking spaces is making traffic even worse. We need better solutions.",
+		"topic": "Traffic",
+		"sentiment": 0.05,
+		"timestamp": "2025-03-12T21:06:33.044"
+	},
+	{
+		"comment": "We need more awareness programs to educate people about the dangers of drug use.",
+		"topic": "Drug Use",
+		"sentiment": 0.5,
+		"timestamp": "2025-03-13T00:08:33.044"
+	},
+	{
+		"comment": "Traffic congestion is getting worse every day. We need better infrastructure to handle the growing number of vehicles.",
+		"topic": "Traffic",
+		"sentiment": 0.05,
+		"timestamp": "2025-03-13T16:05:33.044"
+	},
+	{
+		"comment": "It's great to see more community initiatives aimed at helping the homeless population.",
+		"topic": "Homelessness",
+		"sentiment": 0.65,
+		"timestamp": "2025-03-13T20:31:33.044"
+	},
+	{
+		"comment": "Public drug use is a major concern that needs to be addressed urgently.",
+		"topic": "Drug Use",
+		"sentiment": 0.03125,
+		"timestamp": "2025-03-13T20:43:33.044"
+	},
+	{
+		"comment": "Homelessness is affecting the safety and cleanliness of our neighborhood.",
+		"topic": "Homelessness",
+		"sentiment": 0,
+		"timestamp": "2025-03-13T22:55:33.044"
+	},
+	{
+		"comment": "Homelessness is a humanitarian crisis that needs more attention.",
+		"topic": "Homelessness",
+		"sentiment": 0.5,
+		"timestamp": "2025-03-14T02:23:33.044"
+	},
+	{
+		"comment": "Road construction projects are causing severe traffic disruptions. It's frustrating!",
+		"topic": "Traffic",
+		"sentiment": -0.5,
+		"timestamp": "2025-03-14T02:31:33.044"
+	},
+	{
+		"comment": "The city's traffic lights are poorly synchronized, causing unnecessary delays.",
+		"topic": "Traffic",
+		"sentiment": -0.4,
+		"timestamp": "2025-03-14T03:49:33.044"
+	},
+	{
+		"comment": "Rush hour traffic is unbearable. I dread driving during peak times.",
+		"topic": "Traffic",
+		"sentiment": 0,
+		"timestamp": "2025-03-14T08:47:33.044"
+	},
+	{
+		"comment": "Drug addiction is tearing families apart. We need more support for those affected.",
+		"topic": "Drug Use",
+		"sentiment": 0.5,
+		"timestamp": "2025-03-14T09:11:33.044"
+	},
+	{
+		"comment": "Traffic congestion is getting worse every day. We need better infrastructure to handle the growing number of vehicles.",
+		"topic": "Traffic",
+		"sentiment": 0.05,
+		"timestamp": "2025-03-14T11:43:33.044"
+	},
+	{
+		"comment": "Drug use in public places is becoming a serious issue. It's not safe for our children to play outside anymore. We need stricter regulations.",
+		"topic": "Drug Use",
+		"sentiment": -0.0266666667,
+		"timestamp": "2025-03-14T12:08:33.044"
+	},
+	{
+		"comment": "Homelessness is a humanitarian crisis that needs more attention.",
+		"topic": "Homelessness",
+		"sentiment": 0.5,
+		"timestamp": "2025-03-14T18:29:33.044"
+	},
+	{
+		"comment": "Homelessness is a growing issue that needs immediate attention from the authorities.",
+		"topic": "Homelessness",
+		"sentiment": 0,
+		"timestamp": "2025-03-14T19:43:33.044"
+	},
+	{
+		"comment": "The sight of people using drugs openly is disturbing.",
+		"topic": "Drug Use",
+		"sentiment": -0.5,
+		"timestamp": "2025-03-14T22:12:33.044"
+	},
+	{
+		"comment": "The roads are in terrible condition, adding to the traffic woes.",
+		"topic": "Traffic",
+		"sentiment": -1,
+		"timestamp": "2025-03-14T23:20:33.044"
+	},
+	{
+		"comment": "Rush hour traffic is unbearable. I dread driving during peak times.",
+		"topic": "Traffic",
+		"sentiment": 0,
+		"timestamp": "2025-03-15T02:54:33.044"
+	},
+	{
+		"comment": "The lack of parking spaces is making traffic even worse. We need better solutions.",
+		"topic": "Traffic",
+		"sentiment": 0.05,
+		"timestamp": "2025-03-15T10:56:33.044"
+	},
+	{
+		"comment": "The traffic in the city is unbearable. It takes me hours to get to work every day. Something needs to be done about this!",
+		"topic": "Traffic",
+		"sentiment": 0,
+		"timestamp": "2025-03-15T13:52:33.044"
+	},
+	{
+		"comment": "Homelessness is affecting the safety and cleanliness of our neighborhood.",
+		"topic": "Homelessness",
+		"sentiment": 0,
+		"timestamp": "2025-03-15T15:14:33.044"
+	},
+	{
+		"comment": "Drug use is rampant in certain areas of the city. It's dangerous and needs immediate attention.",
+		"topic": "Drug Use",
+		"sentiment": -0.1928571429,
+		"timestamp": "2025-03-15T18:17:33.044"
+	},
+	{
+		"comment": "Drug use is rampant in certain areas of the city. It's dangerous and needs immediate attention.",
+		"topic": "Drug Use",
+		"sentiment": -0.1928571429,
+		"timestamp": "2025-03-15T19:58:33.044"
+	},
+	{
+		"comment": "Homelessness is a humanitarian crisis that needs more attention.",
+		"topic": "Homelessness",
+		"sentiment": 0.5,
+		"timestamp": "2025-03-15T22:49:33.044"
+	},
+	{
+		"comment": "The community is suffering because of the widespread drug use.",
+		"topic": "Drug Use",
+		"sentiment": 0,
+		"timestamp": "2025-03-15T23:59:33.044"
+	},
+	{
+		"comment": "The community is suffering because of the widespread drug use.",
+		"topic": "Drug Use",
+		"sentiment": 0,
+		"timestamp": "2025-03-16T01:51:33.044"
+	},
+	{
+		"comment": "Homelessness is a complex issue that requires comprehensive solutions.",
+		"topic": "Homelessness",
+		"sentiment": -0.3,
+		"timestamp": "2025-03-16T11:49:33.044"
+	},
+	{
+		"comment": "Drug addiction is tearing families apart. We need more support for those affected.",
+		"topic": "Drug Use",
+		"sentiment": 0.5,
+		"timestamp": "2025-03-17T03:32:33.044"
+	},
+	{
+		"comment": "The roads are in terrible condition, adding to the traffic woes.",
+		"topic": "Traffic",
+		"sentiment": -1,
+		"timestamp": "2025-03-17T05:25:33.044"
+	},
+	{
+		"comment": "The increase in homeless encampments is concerning. It's not safe.",
+		"topic": "Homelessness",
+		"sentiment": -0.25,
+		"timestamp": "2025-03-17T08:05:33.044"
+	},
+	{
+		"comment": "Road construction projects are causing severe traffic disruptions. It's frustrating!",
+		"topic": "Traffic",
+		"sentiment": -0.5,
+		"timestamp": "2025-03-17T08:21:33.044"
+	},
+	{
+		"comment": "Traffic congestion is getting worse every day. We need better infrastructure to handle the growing number of vehicles.",
+		"topic": "Traffic",
+		"sentiment": 0.05,
+		"timestamp": "2025-03-17T09:17:33.044"
+	},
+	{
+		"comment": "The lack of resources for homeless individuals is a serious problem. We need more funding.",
+		"topic": "Homelessness",
+		"sentiment": 0.0833333333,
+		"timestamp": "2025-03-17T09:44:33.044"
+	},
+	{
+		"comment": "The increase in homeless encampments is concerning. It's not safe.",
+		"topic": "Homelessness",
+		"sentiment": -0.25,
+		"timestamp": "2025-03-17T11:57:33.044"
+	},
+	{
+		"comment": "Road construction projects are causing severe traffic disruptions. It's frustrating!",
+		"topic": "Traffic",
+		"sentiment": -0.5,
+		"timestamp": "2025-03-17T12:06:33.044"
+	},
+	{
+		"comment": "The sight of people using drugs openly is disturbing.",
+		"topic": "Drug Use",
+		"sentiment": -0.5,
+		"timestamp": "2025-03-17T12:24:33.044"
+	},
+	{
+		"comment": "Homelessness is a growing issue that needs immediate attention from the authorities.",
+		"topic": "Homelessness",
+		"sentiment": 0,
+		"timestamp": "2025-03-17T20:15:33.044"
+	},
+	{
+		"comment": "There are not enough shelters to accommodate the growing homeless population.",
+		"topic": "Homelessness",
+		"sentiment": 0,
+		"timestamp": "2025-03-18T00:50:33.044"
+	},
+	{
+		"comment": "The roads are in terrible condition, adding to the traffic woes.",
+		"topic": "Traffic",
+		"sentiment": -1,
+		"timestamp": "2025-03-18T01:15:33.044"
+	},
+	{
+		"comment": "There are not enough rehab centers to help those struggling with drug addiction.",
+		"topic": "Drug Use",
+		"sentiment": 0,
+		"timestamp": "2025-03-18T02:24:33.044"
+	},
+	{
+		"comment": "Drug addiction is tearing families apart. We need more support for those affected.",
+		"topic": "Drug Use",
+		"sentiment": 0.5,
+		"timestamp": "2025-03-18T12:03:33.044"
+	},
+	{
+		"comment": "Rush hour traffic is unbearable. I dread driving during peak times.",
+		"topic": "Traffic",
+		"sentiment": 0,
+		"timestamp": "2025-03-18T13:10:33.044"
+	}
+]
