@@ -122,8 +122,10 @@ def clean_json_string(json_string):
     return cleaned_string
 
 comments = generate_synthetic_comments()
-user_message = f"User: I need to know if the topic of the comment is about Traffic, Homelessness or Drug Use. I also need to know sentiment give me a number value -1 to 1. 1 being good, -1 bad, and 0 neutral. The sentiment value can be anything between -1 to 1. Include the comment, sentiment value, topic and timestamp in the response, give only Json.\nData: {json.dumps(comments)}"
-
+user_message = f"""
+User: I need to classify the topic of the comment as either Traffic, Homelessness, or Drug Use. Additionally, I need a sentiment analysis with a numerical value ranging from -1 to 1, where -1 represents very negative, 0 represents neutral, and 1 represents very positive. The sentiment value should be distributed across the range from -1 to 1, not just at the extremes. Please include the comment, sentiment value, topic, and timestamp in the response, formatted as JSON.
+Data: {json.dumps(comments)}
+"""
 # Suppress output
 with open(os.devnull, 'w') as fnull:
     sys.stdout = fnull
