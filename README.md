@@ -59,5 +59,3 @@ This project analyzes comments related to city issues such as traffic, homelessn
 
 3. **Access the application**:
     Open your web browser and navigate to `http://localhost:5173/`.
-
-## Project Structure
