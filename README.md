@@ -17,6 +17,8 @@ This project analyzes comments related to city issues such as traffic, homelessn
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/sophiakobzar/city-issues-analysis.git
+    ```
+   ```bash
     cd city-issues-analysis
     ```
 
