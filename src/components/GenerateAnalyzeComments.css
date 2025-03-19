@@ -29,7 +29,7 @@ button:hover {
 
 .loading {
   font-size: 18px;
-  color: #ff0000;
+  color: #000000;
   text-align: left; /* Align loading text to the left */
 }
 
